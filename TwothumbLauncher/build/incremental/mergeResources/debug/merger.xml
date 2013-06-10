@@ -1,0 +1,422 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger>
+
+    <dataSet config="main" >
+        <source path="/Users/irus/@Development/Android/@Android Studio/TwothumbLauncherProject/TwothumbLauncher/src/main/res" >
+            <file
+                name="fade_in"
+                path="/Users/irus/@Development/Android/@Android Studio/TwothumbLauncherProject/TwothumbLauncher/src/main/res/anim/fade_in.xml"
+                qualifiers=""
+                type="anim" />
+            <file
+                name="fade_out"
+                path="/Users/irus/@Development/Android/@Android Studio/TwothumbLauncherProject/TwothumbLauncher/src/main/res/anim/fade_out.xml"
+                qualifiers=""
+                type="anim" />
+            <file
+                name="grid_entry"
+                path="/Users/irus/@Development/Android/@Android Studio/TwothumbLauncherProject/TwothumbLauncher/src/main/res/anim/grid_entry.xml"
+                qualifiers=""
+                type="anim" />
+            <file
+                name="grid_exit"
+                path="/Users/irus/@Development/Android/@Android Studio/TwothumbLauncherProject/TwothumbLauncher/src/main/res/anim/grid_exit.xml"
+                qualifiers=""
+                type="anim" />
+            <file
+                name="hide_applications"
+                path="/Users/irus/@Development/Android/@Android Studio/TwothumbLauncherProject/TwothumbLauncher/src/main/res/anim/hide_applications.xml"
+                qualifiers=""
+                type="anim" />
+            <file
+                name="show_applications"
+                path="/Users/irus/@Development/Android/@Android Studio/TwothumbLauncherProject/TwothumbLauncher/src/main/res/anim/show_applications.xml"
+                qualifiers=""
+                type="anim" />
+            <file
+                name="bright_text_dark_focused"
+                path="/Users/irus/@Development/Android/@Android Studio/TwothumbLauncherProject/TwothumbLauncher/src/main/res/color/bright_text_dark_focused.xml"
+                qualifiers=""
+                type="color" />
+            <file
+                name="all_applications"
+                path="/Users/irus/@Development/Android/@Android Studio/TwothumbLauncherProject/TwothumbLauncher/src/main/res/drawable/all_applications.xml"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="all_applications_background"
+                path="/Users/irus/@Development/Android/@Android Studio/TwothumbLauncherProject/TwothumbLauncher/src/main/res/drawable/all_applications_background.xml"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="all_applications_button_background"
+                path="/Users/irus/@Development/Android/@Android Studio/TwothumbLauncherProject/TwothumbLauncher/src/main/res/drawable/all_applications_button_background.xml"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="favorite_background"
+                path="/Users/irus/@Development/Android/@Android Studio/TwothumbLauncherProject/TwothumbLauncher/src/main/res/drawable/favorite_background.xml"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="grid_selector"
+                path="/Users/irus/@Development/Android/@Android Studio/TwothumbLauncherProject/TwothumbLauncher/src/main/res/drawable/grid_selector.xml"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="all_applications_label_background"
+                path="/Users/irus/@Development/Android/@Android Studio/TwothumbLauncherProject/TwothumbLauncher/src/main/res/drawable-hdpi/all_applications_label_background.9.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="application_background"
+                path="/Users/irus/@Development/Android/@Android Studio/TwothumbLauncherProject/TwothumbLauncher/src/main/res/drawable-hdpi/application_background.9.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="application_background_static"
+                path="/Users/irus/@Development/Android/@Android Studio/TwothumbLauncherProject/TwothumbLauncher/src/main/res/drawable-hdpi/application_background_static.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="focused_application_background_static"
+                path="/Users/irus/@Development/Android/@Android Studio/TwothumbLauncherProject/TwothumbLauncher/src/main/res/drawable-hdpi/focused_application_background_static.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="hide_all_applications"
+                path="/Users/irus/@Development/Android/@Android Studio/TwothumbLauncherProject/TwothumbLauncher/src/main/res/drawable-hdpi/hide_all_applications.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="ic_launcher_allhide"
+                path="/Users/irus/@Development/Android/@Android Studio/TwothumbLauncherProject/TwothumbLauncher/src/main/res/drawable-hdpi/ic_launcher_allhide.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="ic_launcher_allshow"
+                path="/Users/irus/@Development/Android/@Android Studio/TwothumbLauncherProject/TwothumbLauncher/src/main/res/drawable-hdpi/ic_launcher_allshow.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="ic_launcher_home"
+                path="/Users/irus/@Development/Android/@Android Studio/TwothumbLauncherProject/TwothumbLauncher/src/main/res/drawable-hdpi/ic_launcher_home.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="pressed_application_background_static"
+                path="/Users/irus/@Development/Android/@Android Studio/TwothumbLauncherProject/TwothumbLauncher/src/main/res/drawable-hdpi/pressed_application_background_static.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="show_all_applications"
+                path="/Users/irus/@Development/Android/@Android Studio/TwothumbLauncherProject/TwothumbLauncher/src/main/res/drawable-hdpi/show_all_applications.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="bg_android"
+                path="/Users/irus/@Development/Android/@Android Studio/TwothumbLauncherProject/TwothumbLauncher/src/main/res/drawable-land/bg_android.jpg"
+                qualifiers="land"
+                type="drawable" />
+            <file
+                name="bg_android_icon"
+                path="/Users/irus/@Development/Android/@Android Studio/TwothumbLauncherProject/TwothumbLauncher/src/main/res/drawable-land/bg_android_icon.jpg"
+                qualifiers="land"
+                type="drawable" />
+            <file
+                name="bg_sunrise"
+                path="/Users/irus/@Development/Android/@Android Studio/TwothumbLauncherProject/TwothumbLauncher/src/main/res/drawable-land/bg_sunrise.jpg"
+                qualifiers="land"
+                type="drawable" />
+            <file
+                name="bg_sunrise_icon"
+                path="/Users/irus/@Development/Android/@Android Studio/TwothumbLauncherProject/TwothumbLauncher/src/main/res/drawable-land/bg_sunrise_icon.jpg"
+                qualifiers="land"
+                type="drawable" />
+            <file
+                name="bg_sunset"
+                path="/Users/irus/@Development/Android/@Android Studio/TwothumbLauncherProject/TwothumbLauncher/src/main/res/drawable-land/bg_sunset.jpg"
+                qualifiers="land"
+                type="drawable" />
+            <file
+                name="bg_sunset_icon"
+                path="/Users/irus/@Development/Android/@Android Studio/TwothumbLauncherProject/TwothumbLauncher/src/main/res/drawable-land/bg_sunset_icon.jpg"
+                qualifiers="land"
+                type="drawable" />
+            <file
+                name="all_applications_label_background"
+                path="/Users/irus/@Development/Android/@Android Studio/TwothumbLauncherProject/TwothumbLauncher/src/main/res/drawable-mdpi/all_applications_label_background.9.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="application_background"
+                path="/Users/irus/@Development/Android/@Android Studio/TwothumbLauncherProject/TwothumbLauncher/src/main/res/drawable-mdpi/application_background.9.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="application_background_static"
+                path="/Users/irus/@Development/Android/@Android Studio/TwothumbLauncherProject/TwothumbLauncher/src/main/res/drawable-mdpi/application_background_static.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="focused_application_background_static"
+                path="/Users/irus/@Development/Android/@Android Studio/TwothumbLauncherProject/TwothumbLauncher/src/main/res/drawable-mdpi/focused_application_background_static.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="hide_all_applications"
+                path="/Users/irus/@Development/Android/@Android Studio/TwothumbLauncherProject/TwothumbLauncher/src/main/res/drawable-mdpi/hide_all_applications.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="ic_launcher_allhide"
+                path="/Users/irus/@Development/Android/@Android Studio/TwothumbLauncherProject/TwothumbLauncher/src/main/res/drawable-mdpi/ic_launcher_allhide.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="ic_launcher_allshow"
+                path="/Users/irus/@Development/Android/@Android Studio/TwothumbLauncherProject/TwothumbLauncher/src/main/res/drawable-mdpi/ic_launcher_allshow.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="ic_launcher_home"
+                path="/Users/irus/@Development/Android/@Android Studio/TwothumbLauncherProject/TwothumbLauncher/src/main/res/drawable-mdpi/ic_launcher_home.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="pressed_application_background_static"
+                path="/Users/irus/@Development/Android/@Android Studio/TwothumbLauncherProject/TwothumbLauncher/src/main/res/drawable-mdpi/pressed_application_background_static.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="show_all_applications"
+                path="/Users/irus/@Development/Android/@Android Studio/TwothumbLauncherProject/TwothumbLauncher/src/main/res/drawable-mdpi/show_all_applications.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="bg_android"
+                path="/Users/irus/@Development/Android/@Android Studio/TwothumbLauncherProject/TwothumbLauncher/src/main/res/drawable-port/bg_android.jpg"
+                qualifiers="port"
+                type="drawable" />
+            <file
+                name="bg_android_icon"
+                path="/Users/irus/@Development/Android/@Android Studio/TwothumbLauncherProject/TwothumbLauncher/src/main/res/drawable-port/bg_android_icon.jpg"
+                qualifiers="port"
+                type="drawable" />
+            <file
+                name="bg_sunrise"
+                path="/Users/irus/@Development/Android/@Android Studio/TwothumbLauncherProject/TwothumbLauncher/src/main/res/drawable-port/bg_sunrise.jpg"
+                qualifiers="port"
+                type="drawable" />
+            <file
+                name="bg_sunrise_icon"
+                path="/Users/irus/@Development/Android/@Android Studio/TwothumbLauncherProject/TwothumbLauncher/src/main/res/drawable-port/bg_sunrise_icon.jpg"
+                qualifiers="port"
+                type="drawable" />
+            <file
+                name="bg_sunset"
+                path="/Users/irus/@Development/Android/@Android Studio/TwothumbLauncherProject/TwothumbLauncher/src/main/res/drawable-port/bg_sunset.jpg"
+                qualifiers="port"
+                type="drawable" />
+            <file
+                name="bg_sunset_icon"
+                path="/Users/irus/@Development/Android/@Android Studio/TwothumbLauncherProject/TwothumbLauncher/src/main/res/drawable-port/bg_sunset_icon.jpg"
+                qualifiers="port"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="/Users/irus/@Development/Android/@Android Studio/TwothumbLauncherProject/TwothumbLauncher/src/main/res/drawable-xxhdpi/ic_launcher.png"
+                qualifiers="xxhdpi"
+                type="drawable" />
+            <file
+                name="all_applications_button"
+                path="/Users/irus/@Development/Android/@Android Studio/TwothumbLauncherProject/TwothumbLauncher/src/main/res/layout/all_applications_button.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="application"
+                path="/Users/irus/@Development/Android/@Android Studio/TwothumbLauncherProject/TwothumbLauncher/src/main/res/layout/application.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="favorite"
+                path="/Users/irus/@Development/Android/@Android Studio/TwothumbLauncherProject/TwothumbLauncher/src/main/res/layout/favorite.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="wallpaper"
+                path="/Users/irus/@Development/Android/@Android Studio/TwothumbLauncherProject/TwothumbLauncher/src/main/res/layout/wallpaper.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="home"
+                path="/Users/irus/@Development/Android/@Android Studio/TwothumbLauncherProject/TwothumbLauncher/src/main/res/layout-land/home.xml"
+                qualifiers="land"
+                type="layout" />
+            <file
+                name="home"
+                path="/Users/irus/@Development/Android/@Android Studio/TwothumbLauncherProject/TwothumbLauncher/src/main/res/layout-port/home.xml"
+                qualifiers="port"
+                type="layout" />
+            <file
+                name="main"
+                path="/Users/irus/@Development/Android/@Android Studio/TwothumbLauncherProject/TwothumbLauncher/src/main/res/menu/main.xml"
+                qualifiers=""
+                type="menu" />
+            <file
+                path="/Users/irus/@Development/Android/@Android Studio/TwothumbLauncherProject/TwothumbLauncher/src/main/res/values/attrs.xml"
+                qualifiers="" >
+                <declare-styleable name="ApplicationsStackLayout" >
+                    <attr name="stackOrientation" >
+                        <enum
+                            name="horizontal"
+                            value="0" />
+                        <enum
+                            name="vertical"
+                            value="1" />
+                    </attr>
+                    <attr
+                        name="marginLeft"
+                        format="dimension" />
+                    <attr
+                        name="marginTop"
+                        format="dimension" />
+                    <attr
+                        name="marginRight"
+                        format="dimension" />
+                    <attr
+                        name="marginBottom"
+                        format="dimension" />
+                </declare-styleable>
+            </file>
+            <file
+                path="/Users/irus/@Development/Android/@Android Studio/TwothumbLauncherProject/TwothumbLauncher/src/main/res/values/strings.xml"
+                qualifiers="" >
+                <string name="action_settings" >Settings
+                </string>
+                <string name="menu_wallpaper" >Wallpaper
+                </string>
+                <string name="home_title" >Home Sample
+                </string>
+                <string name="wallpaper_instructions" >Tap picture to set portrait wallpaper
+                </string>
+                <string name="show_all_apps" >All
+                </string>
+                <string name="menu_settings" >Settings
+                </string>
+                <string name="menu_search" >Search
+                </string>
+            </file>
+            <file
+                path="/Users/irus/@Development/Android/@Android Studio/TwothumbLauncherProject/TwothumbLauncher/src/main/res/values/styles.xml"
+                qualifiers="" >
+
+                <style
+                    name="Theme"
+                    parent="android:Theme" >
+                    <item name="android:windowNoTitle">
+true
+                    </item>
+                </style>
+            </file>
+            <file
+                path="/Users/irus/@Development/Android/@Android Studio/TwothumbLauncherProject/TwothumbLauncher/src/main/res/values-cs/strings.xml"
+                qualifiers="cs" >
+                <string name="wallpaper_instructions" >"Klepnutím na obrázek nastavíte tapetu portrétu"
+                </string>
+                <string name="show_all_apps" >"Vše"
+                </string>
+                <string name="home_title" >"Domů"
+                </string>
+                <string name="menu_search" >"Hledat"
+                </string>
+                <string name="menu_wallpaper" >"Tapeta"
+                </string>
+            </file>
+            <file
+                path="/Users/irus/@Development/Android/@Android Studio/TwothumbLauncherProject/TwothumbLauncher/src/main/res/values-de-rDE/strings.xml"
+                qualifiers="de-rDE" >
+                <string name="menu_search" >"Suchen"
+                </string>
+                <string name="wallpaper_instructions" >"Tippen Sie auf Bild, um Porträt-Bildschirmhintergrund einzustellen"
+                </string>
+                <string name="home_title" >"Startseite"
+                </string>
+                <string name="show_all_apps" >"Alle"
+                </string>
+                <string name="menu_wallpaper" >"Bildschirmhintergrund"
+                </string>
+            </file>
+            <file
+                path="/Users/irus/@Development/Android/@Android Studio/TwothumbLauncherProject/TwothumbLauncher/src/main/res/values-es-rUS/strings.xml"
+                qualifiers="es-rUS" >
+                <string name="home_title" >"Casa"
+                </string>
+                <string name="menu_search" >"Búsqueda"
+                </string>
+                <string name="wallpaper_instructions" >"Puntee en la imagen para establecer papel tapiz vertical"
+                </string>
+                <string name="menu_wallpaper" >"Papel tapiz"
+                </string>
+                <string name="show_all_apps" >"Todo"
+                </string>
+            </file>
+            <file
+                path="/Users/irus/@Development/Android/@Android Studio/TwothumbLauncherProject/TwothumbLauncher/src/main/res/values-land/strings.xml"
+                qualifiers="land" >
+                <string name="wallpaper_instructions" >Tap image to set landscape wallpaper
+                </string>
+            </file>
+            <file
+                path="/Users/irus/@Development/Android/@Android Studio/TwothumbLauncherProject/TwothumbLauncher/src/main/res/values-nl-rNL/strings.xml"
+                qualifiers="nl-rNL" >
+                <string name="menu_wallpaper" >"Achtergrond"
+                </string>
+                <string name="home_title" >"Start"
+                </string>
+                <string name="menu_search" >"Zoeken"
+                </string>
+                <string name="wallpaper_instructions" >"Tik op afbeelding om portretachtergrond in te stellen"
+                </string>
+                <string name="show_all_apps" >"Alles"
+                </string>
+            </file>
+            <file
+                path="/Users/irus/@Development/Android/@Android Studio/TwothumbLauncherProject/TwothumbLauncher/src/main/res/values-sw600dp/dimens.xml"
+                qualifiers="sw600dp" />
+            <file
+                path="/Users/irus/@Development/Android/@Android Studio/TwothumbLauncherProject/TwothumbLauncher/src/main/res/values-sw720dp-land/dimens.xml"
+                qualifiers="sw720dp-land" >
+                <dimen name="activity_horizontal_margin" >128dp
+                </dimen>
+            </file>
+            <file
+                path="/Users/irus/@Development/Android/@Android Studio/TwothumbLauncherProject/TwothumbLauncher/src/main/res/values-v11/styles.xml"
+                qualifiers="v11" >
+
+                <style
+                    name="AppBaseTheme"
+                    parent="android:Theme.Holo.Light" >
+
+                    <!-- API 11 theme customizations can go here. -->
+                </style>
+            </file>
+            <file
+                path="/Users/irus/@Development/Android/@Android Studio/TwothumbLauncherProject/TwothumbLauncher/src/main/res/values-v14/styles.xml"
+                qualifiers="v14" >
+
+                <style
+                    name="AppBaseTheme"
+                    parent="android:Theme.Holo.Light.DarkActionBar" >
+
+                    <!-- API 14 theme customizations can go here. -->
+                </style>
+            </file>
+        </source>
+        <source path="/Users/irus/@Development/Android/@Android Studio/TwothumbLauncherProject/TwothumbLauncher/build/res/rs/debug" />
+    </dataSet>
+    <dataSet config="debug" >
+        <source path="/Users/irus/@Development/Android/@Android Studio/TwothumbLauncherProject/TwothumbLauncher/src/debug/res" />
+    </dataSet>
+
+</merger>

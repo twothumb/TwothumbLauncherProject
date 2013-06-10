@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="ApplicationsStackLayout">
+        <attr name="stackOrientation">
+            <enum name="horizontal" value="0" />
+            <enum name="vertical" value="1" />
+        </attr>
+        <attr name="marginLeft" format="dimension" />
+        <attr name="marginTop" format="dimension" />
+        <attr name="marginRight" format="dimension" />
+        <attr name="marginBottom" format="dimension" />
+    </declare-styleable>
+
+    <string name="action_settings">Settings</string>
+    <string name="home_title">Home Sample</string>
+    <string name="menu_search">Search</string>
+    <string name="menu_settings">Settings</string>
+    <string name="menu_wallpaper">Wallpaper</string>
+    <string name="show_all_apps">All</string>
+    <string name="wallpaper_instructions">Tap picture to set portrait wallpaper</string>
+
+    <style name="Theme" parent="android:Theme">
+        <item name="android:windowNoTitle">true</item>
+    </style>
+
+</resources>

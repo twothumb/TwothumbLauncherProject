@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger>
+
+    <dataSet config="main" >
+        <source path="/Users/irus/@Development/Android/@Project/TwothumbLauncherProject/TwothumbLauncher/src/main/assets" />
+    </dataSet>
+    <dataSet config="release" >
+        <source path="/Users/irus/@Development/Android/@Project/TwothumbLauncherProject/TwothumbLauncher/src/release/assets" />
+    </dataSet>
+
+</merger>
